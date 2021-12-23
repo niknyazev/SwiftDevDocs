@@ -1,0 +1,94 @@
+{
+  "main": {
+    "id": "3d5bbf10bee5aab5",
+    "type": "split",
+    "children": [
+      {
+        "id": "159be745a55f5dc8",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "ARC.md",
+            "mode": "preview"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "7353891bb54c372c",
+    "type": "split",
+    "children": [
+      {
+        "id": "88f45eb7195b1df8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ac7a38ca9569b7a2",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "d88459f37fc08d4c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "42e92d866fb7427a",
+    "type": "split",
+    "children": [
+      {
+        "id": "584ecd507a3363d1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e2c80d475ea380b6",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "ARC.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "159be745a55f5dc8",
+  "lastOpenFiles": [
+    "ARC.md",
+    "readme.md"
+  ]
+}
