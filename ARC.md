@@ -1,6 +1,6 @@
 ## ARC
 
-test
+anothe
 
 **ARC - механизм подсчета количества ссылок** на объект
 
@@ -98,4 +98,7 @@ var launcher: Launcher? = Launcher()
 launcher = nil
 
 ```
+<<<<<<< HEAD
 
+=======
+>>>>>>> 8cf5e7afab989a69b6aa4815c238e9d1f2389ec1
