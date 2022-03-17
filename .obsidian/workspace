@@ -7,8 +7,11 @@
         "id": "5ac3eeaa92481c4d",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Concurrency.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -65,6 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Concurrency.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -84,11 +88,11 @@
   },
   "active": "5ac3eeaa92481c4d",
   "lastOpenFiles": [
+    "Concurrency.md",
+    "DataBases.md",
+    "Initialization.md",
     "ARC.md",
     "readme.md",
-    "Инициализация.md",
-    "Многопоточность.md",
-    "Работа с БД.md",
     "Pasted image 20220317102336.png",
     "Pasted image 20220317102305.png",
     "20220317101628.png"
