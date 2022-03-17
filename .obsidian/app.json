@@ -1,3 +1,9 @@
 {
-  "strictLineBreaks": true
+  "strictLineBreaks": true,
+  "foldHeading": true,
+  "foldIndent": true,
+  "alwaysUpdateLinks": true,
+  "useMarkdownLinks": true,
+  "attachmentFolderPath": "images",
+  "promptDelete": false
 }
