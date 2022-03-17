@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Инициализация.md",
-            "mode": "preview"
+            "file": "Работа с БД.md",
+            "mode": "source"
           }
         }
       }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Инициализация.md",
+                "file": "Работа с БД.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,10 +88,11 @@
   },
   "active": "5ac3eeaa92481c4d",
   "lastOpenFiles": [
+    "Работа с БД.md",
+    "Многопоточность.md",
     "Инициализация.md",
     "readme.md",
     "ARC.md",
-    "Работа с БД.md",
     "Pasted image 20220317102336.png",
     "Pasted image 20220317102305.png",
     "20220317101628.png"
