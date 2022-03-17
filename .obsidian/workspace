@@ -7,11 +7,8 @@
         "id": "5ac3eeaa92481c4d",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Работа с БД.md",
-            "mode": "source"
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -68,7 +65,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Работа с БД.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,11 +84,11 @@
   },
   "active": "5ac3eeaa92481c4d",
   "lastOpenFiles": [
-    "Работа с БД.md",
-    "Многопоточность.md",
-    "Инициализация.md",
-    "readme.md",
     "ARC.md",
+    "readme.md",
+    "Инициализация.md",
+    "Многопоточность.md",
+    "Работа с БД.md",
     "Pasted image 20220317102336.png",
     "Pasted image 20220317102305.png",
     "20220317101628.png"
