@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Concurrency.md",
-            "mode": "source"
+            "file": "UI.md",
+            "mode": "preview"
           }
         }
       }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Concurrency.md",
+                "file": "UI.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -76,6 +76,17 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "9b7e69cc77c0134f",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
               }
             }
           }
@@ -88,11 +99,12 @@
   },
   "active": "5ac3eeaa92481c4d",
   "lastOpenFiles": [
-    "Concurrency.md",
+    "UI.md",
     "DataBases.md",
     "Initialization.md",
-    "ARC.md",
     "readme.md",
+    "Concurrency.md",
+    "ARC.md",
     "Pasted image 20220317102336.png",
     "Pasted image 20220317102305.png",
     "20220317101628.png"
