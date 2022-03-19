@@ -7,8 +7,11 @@
         "id": "1d64121692af006a",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "UI.md",
+            "mode": "preview"
+          }
         }
       }
     ],
@@ -65,6 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "UI.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -90,16 +94,17 @@
       }
     ],
     "direction": "horizontal",
-    "width": 171.5
+    "width": 171.5,
+    "collapsed": true
   },
   "active": "1d64121692af006a",
   "lastOpenFiles": [
-    "images/20220318105513.png",
     "UI.md",
     "Concurrency.md",
-    "readme.md",
-    "Initialization.md",
     "DataBases.md",
+    "Initialization.md",
+    "readme.md",
+    "images/20220318105513.png",
     "images/20220317224709.png",
     "images/20220317225112.png",
     "ARC.md",
