@@ -15,8 +15,8 @@ https://habr.com/ru/post/303512/
 -   Удалить Main.storyboard    
 -   Очистить строку **Main interface** в настройках проекта  
 
-![](images/20220317103318.png)
-  
+![|500](images/20220317103318.png)
+
 -   Удалить раздел в файле **info.plist**
 
 ![](images/20220317103358.png)

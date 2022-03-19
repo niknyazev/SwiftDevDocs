@@ -81,7 +81,7 @@ https://developer.apple.com/library/archive/documentation/Cocoa/Conceptual/CoreA
 
 **Чтобы скруглить изображение**, надо сначала скруглить View, а потом придать форму изображению наложив маску:
 
-```
+```swift
 
 imageView.layer.cornerRadius = imageView.frame.size.height / 2 imageView.layer.masksToBounds = true
 
@@ -101,7 +101,7 @@ imageView.layer.cornerRadius = imageView.frame.size.height / 2 imageView.layer.m
 
 **Для установки начальных значений слайдера**, можно использовать обсервер - тогда значения будут устанавливаться в момент инициализации
 
-```
+```swift
 
 @IBOutlet weak var slider: UISlider! { 
 	didSet {
@@ -151,13 +151,13 @@ Xcode изменил признак Relation
 
 **Приоритет констрейнтов может понадобиться**, когда при определенных условиях констрейнты начинают противоречить друг-другу. Например когда мы выбирали AspectRatio, при этом объект так растянулся, что нарушил констрейнт по SafeArea. Чтобы этого избежать, нужно у ломающего констрейнта установить Priority с 1000 на 999. 1000 - это максимальный приоритет.
 
-![](images/20220318105428.png)
+![|300](images/20220318105428.png)
 
 **Привязку элементов к аутлетам можно посмотреть**:
 
 -   По ПКМ  
       
-![](images/20220318105441.png)
+![|400](images/20220318105441.png)
     
 -   Через палитру свойств  
       
@@ -246,7 +246,7 @@ Right detail
 
 **В контроллере при обращении к основным элементом через view, tableView** по сути идет к полям соответствующих классов. В классах они просто объявлены через var.
 
-```
+```swift
 
 open var tableView: UITableView!
 open var view: UIView!
@@ -261,7 +261,7 @@ open var view: UIView!
 
 **Перед удалением данных в TableView необходимо удалить данные в данных** - иначе возникает ошибка несоответствия количества строк
 
-```
+```swift
 
 taskList.remove(at: indexPath.row)
 tableView.deleteRows(at: [indexPath], with: .automatic)
@@ -392,7 +392,7 @@ tableView.deleteRows(at: [indexPath], with: .automatic)
     
 **Чтобы обойти несколько элементов UI в цикле**, не обязательно предварительно создавать массив этих объектов. Можно использовать следующую конструкцию:
 
-```
+```swift
 
 for button in [button1, button03, button03] {
   button.setTitle("Button")
