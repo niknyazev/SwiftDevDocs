@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "UI.md",
-            "mode": "preview"
+            "file": "Flashcards development.md",
+            "mode": "source"
           }
         }
       }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "UI.md",
+                "file": "Flashcards development.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -99,15 +99,15 @@
   },
   "active": "1d64121692af006a",
   "lastOpenFiles": [
-    "UI.md",
+    "Flashcards development.md",
+    "Initialization.md",
+    "Pasted image 20220109152955.png.md",
+    "readme.md",
+    "Swift Guidelines.md",
+    "Temp Swift.md",
     "Concurrency.md",
     "DataBases.md",
-    "Initialization.md",
-    "readme.md",
-    "images/20220318105513.png",
-    "images/20220317224709.png",
-    "images/20220317225112.png",
-    "ARC.md",
-    "Pasted image 20220317102336.png"
+    "UI.md",
+    "images/20220318105513.png"
   ]
 }
