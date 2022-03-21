@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Flashcards development.md",
-            "mode": "source"
+            "file": "DataBases.md",
+            "mode": "preview"
           }
         }
       }
@@ -52,7 +52,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 162
+    "width": 240
   },
   "right": {
     "id": "42e92d866fb7427a",
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Flashcards development.md",
+                "file": "DataBases.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -99,15 +99,15 @@
   },
   "active": "1d64121692af006a",
   "lastOpenFiles": [
-    "Flashcards development.md",
-    "Initialization.md",
-    "Pasted image 20220109152955.png.md",
-    "readme.md",
-    "Swift Guidelines.md",
-    "Temp Swift.md",
-    "Concurrency.md",
     "DataBases.md",
+    "Concurrency.md",
+    "Swift Guidelines.md",
+    "AutoLayout.md",
     "UI.md",
-    "images/20220318105513.png"
+    "ARC.md",
+    "Flashcards development.md",
+    "Temp Swift.md",
+    "Initialization.md",
+    "Pasted image 20220109152955.png.md"
   ]
 }
