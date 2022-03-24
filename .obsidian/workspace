@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "DataBases.md",
-            "mode": "preview"
+            "file": "Animations.md",
+            "mode": "source"
           }
         }
       }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DataBases.md",
+                "file": "Animations.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -99,15 +99,15 @@
   },
   "active": "1d64121692af006a",
   "lastOpenFiles": [
+    "Animations.md",
     "DataBases.md",
-    "Concurrency.md",
-    "Swift Guidelines.md",
-    "AutoLayout.md",
-    "UI.md",
-    "ARC.md",
     "Flashcards development.md",
-    "Temp Swift.md",
+    "readme.md",
+    "AutoLayout.md",
+    "Swift Guidelines.md",
+    "Concurrency.md",
     "Initialization.md",
-    "Pasted image 20220109152955.png.md"
+    "Temp Swift.md",
+    "UI.md"
   ]
 }
