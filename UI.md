@@ -1,3 +1,16 @@
+**Если добавлять UIImageView программно, для того чтобы скруглить углы**, нужно задействовать свойство `masksToBounds`
+
+```swift
+
+result.layer.cornerRadius = 15
+result.layer.masksToBounds = true
+
+```
+
+**Статичные TableView доступны только в контексте Storyboard.** Никаких специальных программных статичных TableView нет. Но можно использовать разные подходы для реализации этой концепции. Цитата с stackoverflow:
+
+> Static table view cells are only available when using storyboards. However, if you aren't using storyboards for your entire UI you can still use them for individual screens instead of a collection of screens
+
 **Глюк Xcode - если скрыта панель свойств (автоскрытие)** - не удается выбрать кастомный цвет для элемента
 
 **Чтобы ограничить ориентацию приложения**, надо поменять следующие строки (если не работает соответствующий флаг в настройках приложения)
@@ -196,6 +209,25 @@ Xcode изменил признак Relation
 -   **Status bar style** установить значение **Light Content**
 -   В info.plist установить ключ **View controller-base status** bar appearance в значение **NO**
     
+![|400](images/20220330105259.png)
+	
+Код для установки фона:
+	
+```swift
+	
+let appearance = UINavigationBarAppearance()
+
+appearance.configureWithOpaqueBackground()
+appearance.titleTextAttributes = [.foregroundColor: UIColor.white]
+appearance.largeTitleTextAttributes = [.foregroundColor: UIColor.white]
+appearance.backgroundColor = Colors.mainColor
+
+navigationController?.navigationBar.standardAppearance = appearance
+navigationController?.navigationBar.scrollEdgeAppearance = appearance
+navigationController?.navigationBar.tintColor = .white
+	
+```
+	
 **Методы tableView(trailingSwipeActionsConfigurationForRowAt) по назначению похож на tableView(commit editingStyle)**, но первый метод это протокол TableViewDelegate, а второй - TableViewSource. Насколько я понял, это подразумевает, что второй метод должен менять сами данные (изначально там заложено удаление и вставка), а первый универсальный - просто создает меню, которое может выполнять любую функцию
 
 **UITableViewController это расширенный вариант класса UIViewController.** Помимо прочего он добавляет свойство tableView через которое мы можем взаимодействовать с таблицей

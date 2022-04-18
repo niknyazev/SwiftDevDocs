@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Animations.md",
+            "file": "Shortcuts.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Animations.md",
+                "file": "Shortcuts.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -99,15 +99,15 @@
   },
   "active": "1d64121692af006a",
   "lastOpenFiles": [
-    "Animations.md",
+    "Shortcuts.md",
+    "Initialization.md",
     "DataBases.md",
+    "Temp Swift.md",
+    "UI.md",
+    "Concurrency.md",
+    "Animations.md",
     "Flashcards development.md",
     "readme.md",
-    "AutoLayout.md",
-    "Swift Guidelines.md",
-    "Concurrency.md",
-    "Initialization.md",
-    "Temp Swift.md",
-    "UI.md"
+    "AutoLayout.md"
   ]
 }
