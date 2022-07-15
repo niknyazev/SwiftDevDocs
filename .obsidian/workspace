@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Shortcuts.md",
-            "mode": "source"
+            "file": "CocoaPods, libraries, frameworks.md",
+            "mode": "preview"
           }
         }
       }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Shortcuts.md",
+                "file": "CocoaPods, libraries, frameworks.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -99,15 +99,15 @@
   },
   "active": "1d64121692af006a",
   "lastOpenFiles": [
-    "Shortcuts.md",
-    "Initialization.md",
-    "DataBases.md",
-    "Temp Swift.md",
-    "UI.md",
+    "CocoaPods, libraries, frameworks.md",
     "Concurrency.md",
-    "Animations.md",
+    "Temp Swift.md",
+    "Initialization.md",
+    "Shortcuts.md",
     "Flashcards development.md",
-    "readme.md",
-    "AutoLayout.md"
+    "Swift Guidelines.md",
+    "AutoLayout.md",
+    "UI.md",
+    "DataBases.md"
   ]
 }
