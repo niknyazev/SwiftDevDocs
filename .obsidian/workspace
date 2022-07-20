@@ -9,8 +9,9 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "SwiftUI.md",
-            "mode": "source"
+            "file": "Temp Swift.md",
+            "mode": "source",
+            "source": false
           }
         }
       }
@@ -68,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SwiftUI.md",
+                "file": "Temp Swift.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -99,15 +100,15 @@
   },
   "active": "1d64121692af006a",
   "lastOpenFiles": [
-    "SwiftUI.md",
+    "ARC.md",
     "Temp Swift.md",
-    "Concurrency.md",
-    "CocoaPods, libraries, frameworks.md",
     "Initialization.md",
     "Shortcuts.md",
+    "Concurrency.md",
+    "CocoaPods, libraries, frameworks.md",
+    "SwiftUI.md",
     "Flashcards development.md",
     "Swift Guidelines.md",
-    "AutoLayout.md",
-    "UI.md"
+    "AutoLayout.md"
   ]
 }
