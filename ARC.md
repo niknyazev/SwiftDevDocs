@@ -4,6 +4,9 @@ Swift ARC.pdf
 
 15 дек. 2021, 07:52 PM
 
+**Ссылки**
+https://medium.com/@almalehdev/you-dont-always-need-weak-self-a778bec505ef
+
 **ARC - механизм подсчета количества ссылок** на объект
 
 Объекты отпускаются, если количество сильных ссылок равно нулю

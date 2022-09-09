@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Temp Swift.md",
+            "file": "ARC.md",
             "mode": "source",
             "source": false
           }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "больше известный как GCD",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Temp Swift.md",
+                "file": "ARC.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -100,15 +100,15 @@
   },
   "active": "1d64121692af006a",
   "lastOpenFiles": [
-    "ARC.md",
-    "Temp Swift.md",
-    "Initialization.md",
     "Shortcuts.md",
+    "UI.md",
+    "Initialization.md",
     "Concurrency.md",
-    "CocoaPods, libraries, frameworks.md",
+    "Animations.md",
     "SwiftUI.md",
-    "Flashcards development.md",
-    "Swift Guidelines.md",
-    "AutoLayout.md"
+    "Temp Swift.md",
+    "ARC.md",
+    "CocoaPods, libraries, frameworks.md",
+    "Flashcards development.md"
   ]
 }
