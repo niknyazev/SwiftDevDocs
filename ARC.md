@@ -7,6 +7,15 @@ Swift ARC.pdf
 **Ссылки**
 https://medium.com/@almalehdev/you-dont-always-need-weak-self-a778bec505ef
 
+Резюме статьи:
+- `[unowned self]` is almost always a bad idea
+- Non-escaping closures do not require `[weak self]` **unless** you care about delayed deallocation
+- Escaping closures require `[weak self]` if they get stored somewhere or get passed to another closure **and** an object inside them keeps a reference to the closure
+- `guard let self = self` can lead to delayed deallocation in some cases, which can be good or bad depending on your intentions
+- GCD and animation calls generally do not require `[weak self]` **unless** you store them in a property for later use
+- Be careful with timers!
+- If you aren’t sure, [deinit](https://docs.swift.org/swift-book/LanguageGuide/Deinitialization.html) and Instruments are your friends
+
 **ARC - механизм подсчета количества ссылок** на объект
 
 Объекты отпускаются, если количество сильных ссылок равно нулю
