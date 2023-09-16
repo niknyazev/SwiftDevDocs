@@ -1,4 +1,3 @@
-![](blob:https://dvp1c.atlassian.net/3a01d2f5-04b0-4876-b7da-6398a95806e9)
 
 Swift ARC.pdf
 

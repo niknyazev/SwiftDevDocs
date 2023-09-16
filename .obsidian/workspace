@@ -70,13 +70,13 @@
               "type": "backlink",
               "state": {
                 "file": "ARC.md",
-                "collapseAll": true,
-                "extraContext": true,
+                "collapseAll": false,
+                "extraContext": false,
                 "sortOrder": "alphabetical",
-                "showSearch": false,
+                "showSearch": true,
                 "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
+                "backlinkCollapsed": true,
+                "unlinkedCollapsed": false
               }
             }
           },
@@ -95,20 +95,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 171.5,
-    "collapsed": true
+    "width": 171.5
   },
-  "active": "1d64121692af006a",
+  "active": "e2c80d475ea380b6",
   "lastOpenFiles": [
-    "Shortcuts.md",
-    "UI.md",
-    "Initialization.md",
-    "Concurrency.md",
-    "Animations.md",
-    "SwiftUI.md",
     "Temp Swift.md",
     "ARC.md",
+    "UI.md",
+    "Initialization.md",
+    "Shortcuts.md",
+    "SwiftUI.md",
     "CocoaPods, libraries, frameworks.md",
-    "Flashcards development.md"
+    "Concurrency.md",
+    "Animations.md",
+    "DataBases.md"
   ]
 }
